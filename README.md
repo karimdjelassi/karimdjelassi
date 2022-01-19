@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karimdjelassi
-- 👀 I’m interested in space exploration
-- 🌱 I will be learning C++
+- 👀 I’m interested in space exploration 
+- 🚀 I will be learning C++
 - 💞️ I’m looking to collaborate on creating robust code
 
 <!---
